@@ -5,7 +5,7 @@ but if directly download from github it might be messy but it probably still wor
 
 <details>
 <summary>instructions</summary>
-- you download the zip from google drive or from the github repository (green button that is <> Code)  
+  - you download the zip from google drive or from the github repository (green button that is <> Code)  
   
 - (if github) extract the files, the [main] and [Kasane Teto Shimeji]   ; 
 
