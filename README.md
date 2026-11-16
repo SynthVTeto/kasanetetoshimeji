@@ -5,12 +5,9 @@ but if directly download from github it might be messy but it probably still wor
 
 <details>
 <summary>instructions</summary>
-ㅤ - you download the zip from google drive or from the github repository (green button that is <> Code)
-  
+ㅤ - you download the zip from google drive or from the github repository (green button that is <> Code)  
 ㅤ - (if github) extract the files, the [main] and [Kasane Teto Shimeji]   ; 
-
 ㅤ - (if google drive) extract the [Kasane Teto Shimeji.zip]
-
 ㅤ - open the file after extraction, doubleclick the jar file  and boom theres ur teto !!!
 </details>
 
