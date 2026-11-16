@@ -1,2 +1,2 @@
-# kasanetetoshimeji
-shimeji that is Fanmade and not Offical from the creator of kasan e tet o.v✌️✌️
+woah
+if youdont trust things there ze google drive limnk -> https://drive.google.com/file/d/1KyYuojSZrh9y-fc2f7lkUMFnYuq6FzUl/view?usp=sharing
